@@ -1,0 +1,21 @@
+installation: Local
+server: http://jira.transsion.com
+login: qing.he
+project:
+  key: CN5CAEE
+  type: classic
+epic:
+  name: Epic Name
+  link: Epic Link
+issue:
+  types:
+    - name: Epic
+      handle: Epic
+    - name: Story
+      handle: Story
+    - name: Task
+      handle: Task
+    - name: Sub-task
+      handle: Sub-task
+    - name: Bug
+      handle: Bug
