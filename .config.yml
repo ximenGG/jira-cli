@@ -1,6 +1,6 @@
 installation: Local
-server: http://jira.transsion.com
-login: qing.he
+server: 
+login: 
 project:
   key: CN5CAEE
   type: classic
